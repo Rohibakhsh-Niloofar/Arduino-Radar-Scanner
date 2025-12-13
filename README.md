@@ -1,7 +1,30 @@
-# Arduino Radar Scanner ✳️
+# Arduino Radar Scanner 📡
 
 ## Overview
 This project implements a radar system using an Arduino-controlled servo and an ultrasonic sensor (HY-SRF05) to detect objects. The system scans a 180° range, measures distances, and visualizes them in real-time using a Processing application. It can highlight nearby objects and provide alerts for sudden changes in distance readings.
+
+<details>
+<summary>Demo Arduino Radar Scanner</summary> 
+<ul>
+
+
+Click the icon below to download the demo video 
+
+![Radar Demo](https://github.com/Rohibakhsh-Niloofar/Arduino-Radar-Scanner/releases/download/v1.0/Demo.mp4)
+
+</ul>
+</details>
+
+<details>
+<summary>Documentation Arduino Radar Scanner</summary> 
+<ul>
+  
+Click the icon below to download the documentation
+  
+![Documentation](https://github.com/Rohibakhsh-Niloofar/Arduino-Radar-Scanner/releases/download/v1.0/Documentation.pdf)
+
+</ul>
+</details>
 
 ---
 
