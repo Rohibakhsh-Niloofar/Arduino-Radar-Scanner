@@ -34,11 +34,7 @@ Click the icon below to download the documentation
 ---
 
 ## Features
-- 180° scanning radar with servo motor
-- Distance measurement using ultrasonic sensor
-- Real-time visualization in Processing
-- Object proximity alerts
-- Smooth and filtered radar sweep animation
+This project implements a 180-degree scanning radar system using a `servo motor` combined with an `ultrasonic sensor` to continuously **detect objects** within its range. The measured distance data is transmitted in real time to a `Processing-based` interface, where it is visualized through a smooth and dynamic **radar-style animation**. The system is capable of identifying object proximity and providing clear visual feedback as objects enter the scanning area. To enhance realism and readability, the radar sweep animation is filtered and smoothed, resulting in a stable and visually appealing representation of the surrounding environment.
 
 ---
 
