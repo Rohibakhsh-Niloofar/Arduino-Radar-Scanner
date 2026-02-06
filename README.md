@@ -16,16 +16,7 @@ Click the icons below to download the demo video and radar structure image
 </ul>
 </details>
 
-<details>
-<summary>Documentation Arduino Radar Scanner</summary> 
-<ul>
-  
-Click the icon below to download the documentation
-  
-[Documentation](https://github.com/Rohibakhsh-Niloofar/Arduino-Radar-Scanner/releases/download/v1.0/Documentation.pdf)
 
-</ul>
-</details>
 
 
 [![Arduino](https://img.shields.io/badge/Arduino-Radar_Scanner-00979D?style=for-the-badge)](https://github.com/Rohibakhsh-Niloofar/Arduino-Radar-Scanner/blob/main/Arduino.Radar.ino)
@@ -39,7 +30,7 @@ This project implements a 180-degree scanning radar system using a `servo motor`
 ---
 
 ## Hardware Requirements
-- Arduino Uno or compatible board  
+- Arduino Uno  
 - Ultrasonic Sensor **HY-SRF05**  
 - Servo Motor (SG90 or similar)  
 - Jumper wires  
